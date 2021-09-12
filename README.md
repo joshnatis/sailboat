@@ -27,4 +27,4 @@ Some features that still need to be implemented are:
   + e.g. emphasized text like headings, bolded text, and italicized text should be displayed with emphasis
   + blockquotes, audio/video, lists etc
 - google mode
-- button to switch between displaying `alt`s to displaying `src`s
+- button to switch from displaying `alt`s to displaying `src`s
